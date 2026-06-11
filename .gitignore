@@ -9,7 +9,6 @@ __pycache__/
 
 # Packaging / distribution
 build/
-dist/
 
 # PyInstaller
 *.spec
