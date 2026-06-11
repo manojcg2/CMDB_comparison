@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Packaging / distribution
+build/
+dist/
+
+# PyInstaller
+*.spec
+
+# Output folders
+output/
