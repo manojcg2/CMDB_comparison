@@ -127,5 +127,4 @@ Corrupted lines are skipped. Convert the file to XLSX if many rows appear invali
 ## Download
 
 Download the latest EXE:
-
-<https://github.com/manoj-cl/CARNIVAL/releases/latest>
+https://github.com/manojcg2/CMDB_comparison/releases/download/CMDB_comparison/compare_servers_gui_v2.exe
